@@ -1,16 +1,20 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsuUjoEBmLrNBxC/giphy.gif" width="100%" style="opacity:0.1;" />
+</p>
+
 <h1 align="center">Hi, I'm Pragyan Kalita 👋</h1>
 
 <p align="center">
   🎮 Game Developer | 💻 Programmer | 🎨 Designer<br>
-  📚 B.tech | 🚀 Exploring Unity,Full Stack Web Dev & Bots
+  📚 B.tech | 🚀 Exploring Unity, Full Stack Web Dev & Bots
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔧 Currently working on Unity games & Discord bots
-- 🌐 Web Developer with a passion for modern UI
-- 🎨 Pro thumbnail designer (YT & social content)
+- 🔧 Currently working on Unity games & Discord bots  
+- 🌐 Web Developer with a passion for modern UI  
+- 🎨 Pro thumbnail designer (YT & social content)  
 - 📍 Based in India | 🌌 Future GD?
 
 ---
@@ -26,19 +30,13 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PragyanKalita&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragyanKalita&theme=tokyonight" width="50.7%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PragyanKalita&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragyanKalita&theme=tokyonight" width="50.7%"/>
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/ZyL4BC6.gif" width="100%" alt="Water animation" style="opacity: 0.2;" />
-</p>
-
 
 ---
 
@@ -48,3 +46,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@praaagyan-purple?style=flat&logo=instagram)](#)
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsuUjoEBmLrNBxC/giphy.gif" width="100%" style="opacity:0.1;" />
+</p>
