@@ -31,9 +31,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PragyanKalita&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragyanKalita&theme=tokyonight" width="50.7%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PragyanKalita&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragyanKalita&theme=tokyonight" width="50.7%" />
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/ZyL4BC6.gif" width="100%" alt="Water animation" style="opacity: 0.2;" />
+</p>
+
 
 ---
 
