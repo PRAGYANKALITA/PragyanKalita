@@ -1,20 +1,16 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsuUjoEBmLrNBxC/giphy.gif" width="100%" style="opacity:0.1;" />
-</p>
-
 <h1 align="center">Hi, I'm Pragyan Kalita 👋</h1>
 
 <p align="center">
   🎮 Game Developer | 💻 Programmer | 🎨 Designer<br>
-  📚 B.tech | 🚀 Exploring Unity, Full Stack Web Dev & Bots
+  📚 B.tech | 🚀 Exploring Unity,Full Stack Web Dev & Bots
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔧 Currently working on Unity games & Discord bots  
-- 🌐 Web Developer with a passion for modern UI  
-- 🎨 Pro thumbnail designer (YT & social content)  
+- 🔧 Currently working on Unity games & Discord bots
+- 🌐 Web Developer with a passion for modern UI
+- 🎨 Pro thumbnail designer (YT & social content)
 - 📍 Based in India | 🌌 Future GD?
 
 ---
@@ -29,6 +25,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -46,7 +43,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@praaagyan-purple?style=flat&logo=instagram)](#)
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsuUjoEBmLrNBxC/giphy.gif" width="100%" style="opacity:0.1;" />
-</p>
