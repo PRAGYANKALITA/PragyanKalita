@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Pragyan Kalita 👋</h1>
 
-<!-- HTML comment for gradient background (visible when rendered) -->
-<div align="center" style="border-radius:10px;padding:1rem;background:linear-gradient(135deg, #000000 0%, #1a0033 50%, #330066 100%);">
-
 <p align="center">
   🎮 Game Developer | 💻 Programmer | 🎨 Designer<br>
   📚 B.tech | 🚀 Exploring Unity,Full Stack Web Dev & Bots
@@ -29,6 +26,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 ---
 
 ### 📊 GitHub Stats
@@ -44,4 +42,4 @@
 [![Discord](https://img.shields.io/badge/Discord-CreeperLands-7289DA?style=flat&logo=discord)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-@praaagyan-purple?style=flat&logo=instagram)](#)
 
-</div>
+---
