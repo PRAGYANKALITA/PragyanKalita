@@ -2,7 +2,7 @@
 
 <p align="center">
   🎮 Game Developer | 💻 Programmer | 🎨 Designer<br>
-  📚 B.tech | 🚀 Exploring Unity, Web Dev & Bots
+  📚 B.tech | 🚀 Exploring Unity,Full Stack Web Dev & Bots
 </p>
 
 ---
@@ -11,12 +11,12 @@
 - 🔧 Currently working on Unity games & Discord bots
 - 🌐 Web Developer with a passion for modern UI
 - 🎨 Pro thumbnail designer (YT & social content)
-- 📍 Based in India | 🌌 Future astrophysicist?
+- 📍 Based in India | 🌌 Future GD?
 
 ---
 
 ### 🔧 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+###![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
