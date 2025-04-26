@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PragyanKalita&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragyanKalita&theme=tokyonight" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragyanKalita&theme=tokyonight" width="51%"/>
 </p>
 
 ---
