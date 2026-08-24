@@ -1,80 +1,38 @@
-<h1 align="center">Hi, I'm Pragyan Kalita 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=180&section=header&text=Pragyan%20Kalita&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast&descFontSize=16&descAlignY=62&descAlign=50" width="100%"/>
 
-<p align="center">
-  🎮 Game Developer | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast<br>
-  📚 B.Tech in Computer Science | 🚀 Building immersive experiences
-</p>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=B.Tech+in+Computer+Science+🎓;Building+Immersive+Unity+%26+Unreal+Experiences+🎮;Architecting+Scalable+Full-Stack+Web+Apps+💻;Training+Intelligent+AI%2FML+Models+🤖;Future+Game+Dev+Studio+Founder+🌌" alt="Typing SVG" />
+    </a>
+  </p>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/pragyankalita"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.youtube.com/@PragyanPlaysOfficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Discord-CreeperLands-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Instagram-@praaagyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
+</div>
 
-### 🧠 About Me
-- 🔧 Currently working on Unity games & AI-powered applications
-- 🌐 Full stack developer with expertise in modern web technologies
-- 🤖 Passionate about AI/ML, APIs, and intelligent systems
-- 🎨 Professional designer (Game UI, Thumbnails & Social Content)
-- 📍 Based in India | 🌌 Future Game Development Studio Founder?
+<br/>
 
----
+### ⚡ Developer Profile
 
-### 🔧 Tech Stack
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-**Game Development**  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-**Web Development**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI/ML & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🏆 Skills
-- Game Development (Unity, Unreal, C#)
-- Full Stack Web Development (MERN Stack)
-- Artificial Intelligence & Machine Learning
-- API Development & Integration
-- UI/UX Design & Game Assets Creation
-- Discord Bot Development
-- Cloud Computing & Deployment
-- Data Structures & Algorithms
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PragyanKalita&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragyanKalita&theme=tokyonight" width="50.7%"/>
-</p>
-
----
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pragyan_Kalita-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pragyankalita)
-[![YouTube](https://img.shields.io/badge/YouTube-PragyanPlaysOfficial-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@PragyanPlaysOfficial)
-[![Discord](https://img.shields.io/badge/Discord-CreeperLands-7289DA?style=flat&logo=discord)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-@praaagyan-E4405F?style=flat&logo=instagram)](#)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PragyanKalita&label=Profile%20views&color=0e75b6&style=flat" alt="PragyanKalita" />
-</p>
+```jsonc
+{
+  "name": "Pragyan Kalita",
+  "location": "India 📍",
+  "education": "B.Tech in Computer Science",
+  "core_focus": [
+    "Unity & Unreal Game Development",
+    "Modern Full-Stack Applications",
+    "AI/ML Systems & OpenAI Integrations"
+  ],
+  "creative": "UI/UX, Thumbnails & Game Assets",
+  "ambition": "Founding an Indie Game Studio 🚀"
+}
