@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="assets/banner.svg" alt="Profile Banner"/>
+  
   <br/><br/>
   <img width="280" src="assets/main.gif" alt="Main Character GIF"/>    
   <br/><br/>
@@ -24,6 +24,8 @@ I am a **Game Developer & Full-Stack Engineer** with a passion for creative stor
 - 🤖 **AI & Automation:** Building intelligent models with **TensorFlow**, integrating **OpenAI APIs**, and creating custom **Discord Bots**.
 - 🎨 **Visual Design:** Creating game UI/UX interfaces, video thumbnails, and brand assets using **Figma** and **Adobe Photoshop**.
 - 📍 Based in **India** | 🌌 Future Indie Game Development Studio Founder.
+<br/><img width="100%" src="assets/banner.svg" alt="Profile Banner"/>
+<br/>
 
 ```javascript
 const PragyanKalita = {
