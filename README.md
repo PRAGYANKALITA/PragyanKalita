@@ -1,27 +1,36 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=CBA6F7&center=true&vCenter=true&width=650&height=50&lines=Greetings%2C+wanderer!+I'm+Pragyan+Kalita+%F0%9F%91%8B;Game+Developer+%26+Full-Stack+Engineer+%F0%9F%8E%AE;AI%2FML+Enthusiast+%26+UI%2FUX+Designer+%F0%9F%A4%96;Future+Game+Dev+Studio+Founder+%F0%9F%9A%80" alt="Typing SVG" />
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/pragyankalita" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"/></a>
-    <a href="https://www.youtube.com/@PragyanPlaysOfficial" target="_blank"><img src="https://img.shields.io/badge/-YouTube-f38ba8?style=for-the-badge&logo=YouTube&logoColor=1e1e2e" alt="YouTube"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Discord-cba6f7?style=for-the-badge&logo=discord&logoColor=1e1e2e" alt="Discord"/></a>
-    <a href="https://instagram.com/praaagyan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-f5c2e7?style=for-the-badge&logo=instagram&logoColor=1e1e2e" alt="Instagram"/></a>
+<img width="100%" src="./assets/banner.svg" alt="Profile Banner"/>
+<br/><br/>
+<img width="280" src="./assets/main.gif" alt="Main Character GIF"/>    
+<br/><br/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Itim&size=34&duration=2000&pause=2000&color=E0DFF1&center=true&vCenter=true&width=650&height=50&lines=Greetings%2C+wanderer!+I'm+Pragyan+Kalita+%F0%9F%91%8B;Game+Developer+%26+Full-Stack+Engineer+%F0%9F%8E%AE;AI%2FML+Enthusiast+%26+UI%2FUX+Designer+%F0%9F%A4%96;Building+Immersive+Digital+Worlds+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+<br/><br/>
+<a href="https://www.linkedin.com/in/pragyankalita" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@PragyanPlaysOfficial" target="_blank"><img src="https://img.shields.io/badge/-YouTube-f38ba8?style=for-the-badge&logo=YouTube&logoColor=1e1e2e" alt="YouTube"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Discord-cba6f7?style=for-the-badge&logo=discord&logoColor=1e1e2e" alt="Discord"/></a>
+<a href="https://instagram.com/praaagyan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-f5c2e7?style=for-the-badge&logo=instagram&logoColor=1e1e2e" alt="Instagram"/></a>
 </div>
 
 <br/>
 
-## 👻 A little about me... 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PragyanKalita&data=followers,repositories,stars,commits&theme=dark)](https://github.com/PragyanKalita)
+## 👻 A little about me...
 
-I am a **Game Developer & Full-Stack Engineer** with a special bias towards creativity, interactive worlds, and intelligent systems. I hold a **B.Tech in Computer Science** and focus on building high-performance, immersive digital experiences.
+<div align="center">
+<a href="https://github.com/PragyanKalita" target="_blank">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=PragyanKalita&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox Card" />
+</a>
+</div>
 
-- 🎮 **Game Architecture:** Building interactive game mechanics and worlds using **Unity** and **Unreal Engine** with **C#**.
-- 🌐 **Web Development:** Architecting responsive, end-to-end full-stack applications with the **MERN** stack and REST APIs.
-- 🤖 **AI & Automation:** Developing intelligent systems using **TensorFlow**, integrating **OpenAI APIs**, and creating custom **Discord Bots**.
-- 🎨 **Visuals & UI/UX:** Designing game interfaces, video thumbnails, and social content with **Figma** & **Photoshop**.
+<br/>
+
+I am a **Game Developer & Full-Stack Engineer** with a passion for creative storytelling, interactive gameplay, and intelligent software architectures. Currently pursuing my **B.Tech in Computer Science**, my focus is centered on creating seamless, high-performance web applications and immersive game worlds.
+
+- 🎮 **Game Architecture:** Designing interactive gameplay mechanics & environments in **Unity** and **Unreal Engine** using **C#**.
+- 🌐 **Web Development:** Architecting full-stack web platforms and REST APIs with the **MERN** stack (MongoDB, Express, React, Node.js).
+- 🤖 **AI & Automation:** Building intelligent models with **TensorFlow**, integrating **OpenAI APIs**, and creating custom **Discord Bots**.
+- 🎨 **Visual Design:** Creating game UI/UX interfaces, video thumbnails, and brand assets using **Figma** and **Adobe Photoshop**.
 - 📍 Based in **India** | 🌌 Future Indie Game Development Studio Founder.
 
 ```javascript
@@ -43,10 +52,10 @@ const PragyanKalita = {
     },
     ai_ml: {
         frameworks: ["TensorFlow", "Python"],
-        integrations: ["OpenAI API", "Custom Intelligent Bots"]
+        integrations: ["OpenAI API", "Discord Bots"]
     },
-    creative_and_tools: {
+    creativeAndDevOps: {
         design: ["Adobe Photoshop", "Figma"],
-        devOps_tools: ["Git", "GitHub", "Cloud Computing & Deployment", "Postman"]
+        tools: ["Git", "GitHub", "Cloud Computing & Deployment", "Postman"]
     }
 };
