@@ -1,6 +1,4 @@
 <div align="center">
-<img width="100%" src="./assets/banner.svg" alt="Profile Banner"/>
-<br/><br/>
 <img width="280" src="./assets/main.gif" alt="Main Character GIF"/>    
 <br/><br/>
 <a href="https://git.io/typing-svg">
@@ -16,14 +14,6 @@
 <br/>
 
 ## 👻 A little about me...
-
-<div align="center">
-<a href="https://github.com/PragyanKalita" target="_blank">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=PragyanKalita&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox Card" />
-</a>
-</div>
-
-<br/>
 
 I am a **Game Developer & Full-Stack Engineer** with a passion for creative storytelling, interactive gameplay, and intelligent software architectures. Currently pursuing my **B.Tech in Computer Science**, my focus is centered on creating seamless, high-performance web applications and immersive game worlds.
 
